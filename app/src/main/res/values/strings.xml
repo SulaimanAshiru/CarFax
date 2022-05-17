@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CarFax</string>
+    <string name="error_no_internet_connection">No Internet connection available</string>
+    <string name="error_something_went_wrong">Something went wrong</string>
+    <string name="permission_message">You need to allow the permissions from\nSettings -> Apps -> CarFax -> Permissions\nto allow the permissions</string>
+
+    // detail activity
+    <string name="location">Location</string>
+    <string name="exterior_color">Exterior Color</string>
+    <string name="interior_color">Interior Color</string>
+    <string name="drive_type">Drive Type</string>
+    <string name="transmission">Transmission</string>
+    <string name="body_style">Body Style</string>
+    <string name="fuel">Fuel</string>
+    <string name="engine">Engine</string>
+    <string name="view_details">View Details</string>
+    <string name="call_dealer">CALL DEALER</string>
+</resources>
